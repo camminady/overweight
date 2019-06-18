@@ -8,6 +8,16 @@ People with a BMI >= 30 are defined as obese.
 
 Data is available for the years 1975-2016 for many countries around the globe.
 
+## Results
+
+An image for each year will be created inside the folder `figs/`. 
+
+These images can be converted into a video via the command below.
+
+![Results 2016](https://raw.githubusercontent.com/camminady/overweight/master/figs/v5_41.png)
+Format: ![Overweight and Obesity 2016](url)
+
+
 
 ## To reproduce
 
