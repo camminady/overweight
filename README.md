@@ -23,4 +23,4 @@ As an example, you can see the results for the year 2016 here.
 ## To reproduce
 
 1) Execute the cells inside the `main.ipynb`
-2) To convert the images into a  video execute: `ffmpeg -framerate 1 -i figs/v5_%02d.png -c:v libx264 bmi.mp4`
+2) To convert the images into a  video execute: `ffmpeg -r 1 -i figs/v5_%02d.png -vcodec libx264 -y -an bmi.mp4 -vf "pad=ceil(iw/2)*2:ceil(ih/2)*2"`
