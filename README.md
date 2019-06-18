@@ -1,8 +1,11 @@
 # Analyzing data on overweight and obesity around the globe
 
 The data is taken from https://ourworldindata.org/obesity
+
 People with a BMI >= 25 are defined as overweight.
+
 People with a BMI >= 30 are defined as obese.
+
 Data is available for the years 1975-2016 for many countries around the globe.
 
 
