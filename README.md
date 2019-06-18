@@ -17,7 +17,6 @@ These images can be converted into a video via the command below.
 As an example, you can see the results for the year 2016 here.
 
 ![Results 2016](https://raw.githubusercontent.com/camminady/overweight/master/figs/v5_41.png)
-Format: ![Overweight and Obesity 2016](url)
 
 
 
